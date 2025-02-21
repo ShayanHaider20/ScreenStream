@@ -28,9 +28,3 @@ This project demonstrates the use of:
 - Component reusability
 - Conditional rendering
 
-
-## ScreenStream
-
-[![ScreenStream](https://via.placeholder.com/150)](https://chatgpt.com/c/67b86d8a-9cb8-8003-ad21-6e6504dcd86e)
-
-Click the image above or [here](https://chatgpt.com/c/67b86d8a-9cb8-8003-ad21-6e6504dcd86e) to view the discussion.
