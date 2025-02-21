@@ -1,6 +1,6 @@
 # ScreenStream
 
-A React based movie application that allows users to search for movies, view popular titles, and manage their favorite movies.
+A React+Vite based movie application that allows users to search for movies, view popular titles, and manage their favorite movies.
 
 ## ✨ Features
 
