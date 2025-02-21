@@ -10,14 +10,6 @@ A React based movie application that allows users to search for movies, view pop
 - 🎯 Popular movies displayed on homepage
 - 💫 Loading states and error handling
 
-## 🚀 Components
-
-### Home Component
-- Search functionality for movies
-- Displays popular movies by default
-- Responsive grid layout for movie cards
-- Loading states and error handling
-- Real-time search results
 
 - ## 🚀 Getting Started
 
